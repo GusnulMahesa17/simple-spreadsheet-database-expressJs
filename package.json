@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0",
+    "uuid": "^11.0.5"
+  },
+  "name": "new-input-sheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "set NODE_NO_WARNINGS=1 && node index.js"
+  },
+  "keywords": [],
+  "author": "Gusnul Mahesa",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "hint": "^2.0.0"
+  }
+}
