@@ -17,12 +17,12 @@ Make a copy of the provided Google Spreadsheet template into your Google account
 3. Enable the "Google Sheets API" and "Google Drive API" for your project.
 4. Create a service account and download the JSON credentials file.
 5. Share your copied spreadsheet with the service account email.
+6. Place your `credentials.json` file into the root directory of this project.
 
 ### Step 3: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/spreadsheet-database-expressjs.git
-cd spreadsheet-database-expressjs
+git clone https://github.com/GusnulMahesa17/spreadsheet-database-expressjs.git
 ```
 
 ### Step 4: Install Dependencies
